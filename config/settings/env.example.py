@@ -12,3 +12,11 @@ WSGI_APPLICATION = 'config.wsgi.application'
 
 
 DATABASES = {}
+
+
+EMAIL_HOST = ''
+EMAIL_HOST_USER = ''
+EMAIL_HOST_PASSWORD = ''
+EMAIL_PORT = ''
+
+FROM_EMAIL= ""
